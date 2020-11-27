@@ -1,7 +1,7 @@
 # Figuras-y-Puntos
 Figuras-geometricas
 
-Programa desarrollado en el IDE Netbeans 8.2
+Programa desarrollado en java con el IDE Netbeans 8.2
 
 El programa muestra una interfaz de usuario cuya unica interaccion es el cargar un archivo de prueba.
 
@@ -28,3 +28,10 @@ Al escribir dos las coordenadas 'x' 'y' respectivamente se ejecuta el procedimie
 
 20 35
 150 20
+### Instruciones para correr
+
+Dentro de la carpeta dist se encuentra el ejecutable
+
+###ScreenShot
+
+![Alt text](https://github.com/JoelArdon/Figuras-y-Puntos/blob/main/ss/1.PNG?raw=true)
