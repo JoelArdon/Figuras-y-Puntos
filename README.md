@@ -7,7 +7,7 @@ El programa muestra una interfaz de usuario cuya unica interaccion es el cargar 
 
 El programa espera recibir por consola los comandos para mostrar los resultados en la interfaz.
 
-##Ejemplos de uso
+## Ejemplos de uso
 *** Ejemplos de comandos para agregar figuras ***
 Los primeros dos parametros son las coordenadas x, y respectivamente y los demas dependen del tipo de figura
 
