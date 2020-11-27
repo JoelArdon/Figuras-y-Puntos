@@ -1,0 +1,17 @@
+circle 200.7 200.9 150.05 
+
+square 100.55 40.1 100.77 
+
+rectangle 30.5 20.0 100.6 150.2 
+
+triangle 50.5 20.5 60 70.5 80.2 45.3 
+
+donut 100.5 60.8 80.5 100.8
+
+sincomando
+
+circle 4 6 2 3
+
+triangle 40 10 20
+
+
